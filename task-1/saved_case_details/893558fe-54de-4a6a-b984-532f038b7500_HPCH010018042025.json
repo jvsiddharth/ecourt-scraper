@@ -1,0 +1,66 @@
+{
+  "": [
+    {
+      "Serial Number": "<span class=\"bt-content\">1</span>",
+      "Case Type/Case Number/Case Year": "<span class=\"bt-content\">Hindu Marriage Act/133/2025</span>",
+      "Petitioner versus Respondent": "<span class=\"bt-content\">Ramesh Kumar  <br>Versus <br>Sapna</span>",
+      "View": "<span class=\"bt-content\"><a class=\"viewCnrDetails btn accent-color\" href=\"javascript:void(0);\" aria-label=\"View Case Details\" data-cno=\"HPCH010018042025\">View </a></span>"
+    }
+  ],
+  "Case Details": [
+    {
+      "Case Type": "Hindu Marriage Act",
+      "Filing Number": "520/2025",
+      "Filing Date": "07-07-2025",
+      "Registration Number": "133/2025",
+      "Registration Date": "07-07-2025",
+      "<strong>CNR Number</strong>": "HPCH010018042025"
+    }
+  ],
+  "Case Status": [
+    {
+      "First Hearing Date": "18-July-2025",
+      "Next Hearing Date": "10-November-2025",
+      "Case Status": "Pending",
+      "Stage of Case": "Service",
+      "Court Number and Judge": "1-District And Sessions Judge"
+    }
+  ],
+  "Acts": [
+    {
+      "Under Act(s)": "Hindu Marriage Act",
+      "Under Section(s)": "13"
+    }
+  ],
+  "Case History": [
+    {
+      "Registration Number": "133/2025",
+      "Judge": "District And Sessions Judge",
+      "Business On Date": "18-07-2025",
+      "Hearing Date": "22-07-2025",
+      "Purpose of hearing": "Office Report"
+    }
+  ],
+  "Orders": [
+    {
+      "Order Number": "1",
+      "Order Date": "22-07-2025",
+      "Order Details": "Zimni Orders or Judicial Proceedings."
+    }
+  ],
+  "Process Details": [
+    {
+      "Process id": "PHPCH010018042025",
+      "Process Date": "24-07-2025",
+      "Process title": "Summons for disposal of suit [O. 5, R. 1, 5.]",
+      "Party Name": "Sapna",
+      "Issued Process": "0/1"
+    }
+  ],
+  "Petitioner and Advocate": [
+    "1) Ramesh Kumar\nAdvocate - Rahul Jai singh"
+  ],
+  "Respondent and Advocate": [
+    "1) Sapna"
+  ]
+}

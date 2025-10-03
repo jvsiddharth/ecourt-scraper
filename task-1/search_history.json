@@ -1,0 +1,18 @@
+[
+  {
+    "session_id": "8e71136a-b1cc-4fb6-895c-e563a1dbe96e",
+    "timestamp": "2025-10-02 20:21:35",
+    "url": "https://chamba.dcourts.gov.in/case-status-search-by-case",
+    "court_name": "Chamba",
+    "case_type": "Hindu Marriage Act",
+    "reg_no": "133",
+    "reg_year": "2025",
+    "results_count": 1,
+    "case_details_pdfs": [
+      {
+        "cno": "HPCH010018042025",
+        "filename": "case_details_HPCH010018042025_20251002_202147.pdf"
+      }
+    ]
+  }
+]

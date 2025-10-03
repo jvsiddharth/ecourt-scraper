@@ -1,0 +1,9 @@
+flask
+requests
+selenium
+weasyprint
+pytesseract
+Pillow
+opencv-python
+numpy
+easyocr
